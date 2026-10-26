@@ -1,0 +1,10 @@
+Fashion-MNIST, Han Xiao, Kashif Rasul and Roland Vollgraf, Zalando Research (2017).
+Original source: https://github.com/zalandoresearch/fashion-mnist
+Paper: https://arxiv.org/abs/1708.07747
+Kaggle: https://www.kaggle.com/datasets/zalando-research/fashionmnist
+License: MIT; see FASHION-MNIST-LICENSE.txt.
+
+This assignment uses the original 60,000 training images, split into 54,000
+training and 6,000 validation images (600 validation images per class; seed 440).
+The loader flattens the 28 x 28 images and divides pixel values by 255.
+The official 10,000 test images are reserved for evaluation and are not in this archive.
